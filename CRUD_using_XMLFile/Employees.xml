@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Emp>
+    <id>1</id>
+    <Name>Aniket</Name>
+    <City>Surat</City>
+    <Gender>Male</Gender>
+    <Address>Khodiyar krupa soc</Address>
+    <salary>25000</salary>
+    <Email>Aniket@gmail.com</Email>
+  </Emp>
+  <Emp>
+    <id>2</id>
+    <Name>Preety</Name>
+    <City>Mumbai</City>
+    <Gender>Female</Gender>
+    <Address>Khodiyar krupa soc2</Address>
+    <salary>20000</salary>
+    <Email>Preety@gmail.com</Email>
+  </Emp>
+  <Emp>
+    <id>3</id>
+    <Name>Priyanka</Name>
+    <City>Delhi</City>
+    <Gender>Female</Gender>
+    <Address>Khodiyar krupa soc3</Address>
+    <salary>22000</salary>
+    <Email>Priyanka@gmail.com</Email>
+  </Emp>
+  <Emp>
+    <id>4</id>
+    <Name>Rahul</Name>
+    <City>Pune</City>
+    <Gender>Male</Gender>
+    <Address>Khodiyar krupa soc4</Address>
+    <salary>23500</salary>
+    <Email>Rahul@gmail.com</Email>
+  </Emp>
+  <Employee>
+    <ID>5</ID>
+    <Name>DIvyesh</Name>
+    <City>Navsari</City>
+    <Gender>Male</Gender>
+    <Address>trimukh road</Address>
+    <Salary>19000</Salary>
+    <Email>Divyesh@gmail.com</Email>
+  </Employee>
+</Employees>
