@@ -62,7 +62,8 @@
             <br/>
             <hr/>
             
-        <asp:GridView Width="80%" ID="grv" runat="server" BackColor="White" AutoGenerateColumns="false" BorderColor="#999999" BorderStyle="Solid" BorderWidth="1px" CellPadding="3" ForeColor="Black" GridLines="Vertical" OnRowDeleting="grv_RowDeleting" OnSelectedIndexChanged="grv_SelectedIndexChanged">
+        <asp:GridView Width="80%" ID="grv" runat="server" BackColor="White" AutoGenerateColumns="false" BorderColor="#999999" BorderStyle="Solid" BorderWidth="1px"
+            CellPadding="3" ForeColor="Black" GridLines="Vertical" OnRowDeleting="grv_RowDeleting" OnSelectedIndexChanged="grv_SelectedIndexChanged">
             <Columns>
                             <asp:TemplateField HeaderText="ID">
                                 <ItemTemplate>
